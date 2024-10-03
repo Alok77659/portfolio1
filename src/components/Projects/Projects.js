@@ -56,7 +56,7 @@ function Projects() {
               title="Portfolio"
               description="Welcome to the portfolio of Alok Kumar, a passionate programmer with expertise in C++, JavaScript, and Java. Alok is focused on building web technologies, developing applications, and exploring cloud-related areas. He enjoys creating products using Node.js and modern JavaScript frameworks like React.js and Next.js. The portfolio encourages users to connect and explore Alok's projects and skills."
               link="https://github.com/Alok77659/portfolio1"
-              liveLink="https://portfolio1.vercel.app"
+              liveLink="https://portfolio1app.vercel.app"
             />
           </Col>
         </Row>
